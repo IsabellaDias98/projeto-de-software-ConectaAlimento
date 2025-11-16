@@ -62,3 +62,10 @@ Como um Administrador, Eu desejo monitorar os pedidos de doação cadastrados, P
 **UC15 - Visualizar Dashboard do Sistema**
 
 Como um Administrador, Eu desejo visualizar um dashboard com estatísticas gerais, Para monitorar o impacto e o funcionamento do sistema.
+
+
+## Diagramas
+
+**Diagrama de Casos de Uso**
+
+
