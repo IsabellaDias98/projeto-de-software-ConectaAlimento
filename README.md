@@ -68,4 +68,55 @@ Como um Administrador, Eu desejo visualizar um dashboard com estatísticas gerai
 
 **Diagrama de Casos de Uso**
 
+<img width="600px" height="900px" src="https://github.com/IsabellaDias98/projeto-de-software-ConectaAlimento/blob/main/imagens/ConectaAlimento - Diagrama de Casos de Uso.png"/> 
+
+**Diagramas de Sequência**
+
+<img width="600px" height="900px" src="https://github.com/IsabellaDias98/projeto-de-software-ConectaAlimento/blob/main/imagens/ConectaAlimento - Diagrama de Sequência (UC06).png"/> 
+
+<img width="600px" height="900px" src="https://github.com/IsabellaDias98/projeto-de-software-ConectaAlimento/blob/main/imagens/ConectaAlimento - Diagrama de Sequência (UC08).png"/> 
+
+<img width="600px" height="900px" src="https://github.com/IsabellaDias98/projeto-de-software-ConectaAlimento/blob/main/imagens/ConectaAlimento - Diagrama de Sequência (UC13).png"/> 
+
+**Arquitetura - Diagrama UML**
+
+<img width="600px" height="900px" src="https://github.com/IsabellaDias98/projeto-de-software-ConectaAlimento/blob/main/imagens/ConectaAlimento - Arquitetura.png"/> 
+
+**Diagrama de Componentes**
+
+<img width="600px" height="900px" src="https://github.com/IsabellaDias98/projeto-de-software-ConectaAlimento/blob/main/imagens/ConectaAlimento - Diagrama de Componentes.png"/> 
+
+**Diagrama de Implantação**
+
+<img width="600px" height="900px" src="https://github.com/IsabellaDias98/projeto-de-software-ConectaAlimento/blob/main/imagens/ConectaAlimento - Diagrama de Implantação.png"/> 
+
+**Diagrama de Classes**
+
+<img width="600px" height="900px" src="https://github.com/IsabellaDias98/projeto-de-software-ConectaAlimento/blob/main/imagens/ConectaAlimento - Diagrama de Classes.png"/> 
+
+**Diagramas de Sequência (Realização de Casos de Uso)**
+
+<img width="600px" height="900px" src="https://github.com/IsabellaDias98/projeto-de-software-ConectaAlimento/blob/main/imagens/ConectaAlimento - Diagrama de Sequências (UC06).png"/> 
+
+<img width="600px" height="900px" src="https://github.com/IsabellaDias98/projeto-de-software-ConectaAlimento/blob/main/imagens/ConectaAlimento - Diagrama de Sequências (UC08).png"/> 
+
+<img width="600px" height="900px" src="https://github.com/IsabellaDias98/projeto-de-software-ConectaAlimento/blob/main/imagens/ConectaAlimento - Diagrama de Sequências (UC13).png"/> 
+
+**Diagramas de Comunicação**
+
+<img width="600px" height="900px" src="https://github.com/IsabellaDias98/projeto-de-software-ConectaAlimento/blob/main/imagens/ConectaAlimento - Diagrama de Comunicação (UC06).png"/> 
+
+<img width="600px" height="900px" src="https://github.com/IsabellaDias98/projeto-de-software-ConectaAlimento/blob/main/imagens/ConectaAlimento - Diagrama de Comunicação (UC08).png"/> 
+
+<img width="600px" height="900px" src="https://github.com/IsabellaDias98/projeto-de-software-ConectaAlimento/blob/main/imagens/ConectaAlimento - Diagrama de Comunicação (UC13).png"/> 
+
+**Diagramas de Estado**
+
+<img width="600px" height="900px" src="https://github.com/IsabellaDias98/projeto-de-software-ConectaAlimento/blob/main/imagens/ConectaAlimento - Diagrama de Estados (Ciclo de Vida da Doação).png"/> 
+
+<img width="600px" height="900px" src="https://github.com/IsabellaDias98/projeto-de-software-ConectaAlimento/blob/main/imagens/ConectaAlimento - Diagrama de Estados (Ciclo de Vida do Usuário).png"/> 
+
+**Diagrama DER**
+
+<img width="600px" height="900px" src="https://github.com/IsabellaDias98/projeto-de-software-ConectaAlimento/blob/main/imagens/ConectaAlimento - Diagrama de Entidade-Relacionamento.png"/> 
 
